@@ -7,7 +7,11 @@ int sum (int x + int y) {
 }
 
 int subtract (a - b) {
+<<<<<<< HEAD
 	return a-b;git
+=======
+	return a-b;
+>>>>>>> feature/subtract
 }
 
 
